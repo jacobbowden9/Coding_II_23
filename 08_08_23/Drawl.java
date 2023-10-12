@@ -23,9 +23,7 @@ public class Drawl {
         System.out.println("\u2588\u2591\u2592\u2591\u2592\u2591\u2592\u2588\u2580\u2588\u2591\u2591\u2588\u2591\u2591\u2588\r\n" + //
             "");
         System.out.println("\u2588\u2584\u2584\u2584\u2584\u2584\u2584\u2588\u2588\u2588\u2550\u2550\u2550\u2550\u2550\u2550");
-        System.out.println("0i0000i0");
-        System.out.println("i0iiii0i");
-        System.out.println("ii0000ii");
+       
       }
      
 }
